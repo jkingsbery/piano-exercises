@@ -1,8 +1,7 @@
-
-\score {
 \header {
-  title = "Scales"
+  title = "Ode To Joy"
 }
+\score {
 \relative c'' {
   \new PianoStaff <<
       \new Staff {
