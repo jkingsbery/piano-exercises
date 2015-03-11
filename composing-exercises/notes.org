@@ -1,0 +1,37 @@
+Taken from http://www.artofcomposing.com/
+
+* Basic Idea
+** 2-4 measures
+** Establish home key/tonic
+** some small number of "motives"
+
+* Process of coming up with basic ideas
+** Harmony tones
+** Where do chord tones go with respect to beats in a measure
+*** Classic: strong beats in 4/4 are 1 and 3
+*** Rock: strong beats are 2 and 4
+** Chord tones are easy, but can get boring
+*** Passing tones
+*** Neighbor tones
+** In general variety comes from
+*** New Ideas
+*** Developing ideas
+** Development techniques
+*** Inversion: "upside-down"
+*** Retrograde: switches from back to front
+*** Retrograde-Inversion: do both
+
+* Larger forms
+** Smaller Forms
+*** Period
+*** Motives
+*** Framing Functions
+** Larger levels
+*** How are smaller forms developed?
+** A Period
+*** Antecedent: weak cadence
+**** Ends on V chord
+**** Normally preceded by ii chord or I^6_4 chord inversion
+*** Consequent: strong cadence
+**** Ends on I chord
+**** Proceeded by V7 chord
