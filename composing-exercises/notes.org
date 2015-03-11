@@ -20,7 +20,9 @@ Taken from http://www.artofcomposing.com/
 *** Inversion: "upside-down"
 *** Retrograde: switches from back to front
 *** Retrograde-Inversion: do both
-
+** Changing Harmony
+*** Transposition
+*** 
 * Larger forms
 ** Smaller Forms
 *** Period

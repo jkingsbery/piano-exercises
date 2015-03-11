@@ -9,7 +9,7 @@
 \relative c'' {
   \new PianoStaff <<
       \new Staff { \clef "treble" \time 4/4 c2 e2 | g2 c,2 }
-      \new Staff { \clef "bass" <c,, e g>1 | <b g' f>2 <c e g>2 }
+      \new Staff { \clef "bass" <c,, e g>1 | <c e g>1 }
   >>
 }
 \midi {}
@@ -21,7 +21,7 @@
 \relative c'' {
   \new PianoStaff <<
       \new Staff { \clef "treble" \time 4/4 c4 d4 e2 | g8 f8 e8 d8 c,2 }
-      \new Staff { \clef "bass" <c, e g>1 | <c e g>2 <c e g>2 }
+      \new Staff { \clef "bass" <c, e g>1 | <c e g>1 }
   >>
 }
 \midi {}
@@ -33,7 +33,7 @@
 \relative c'' {
   \new PianoStaff <<
       \new Staff { \clef "treble" \time 4/4 c4 b4 a2 | f8 g8 a8 b8 c,2 }
-      \new Staff { \clef "bass" <c, e g>1 | <c e g>2 <c e g>2 }
+      \new Staff { \clef "bass" <c, e g>1 | <c e g>1 }
   >>
 }
 \midi {}
@@ -45,7 +45,7 @@
 \relative c'' {
   \new PianoStaff <<
       \new Staff { \clef "treble" \time 4/4 c2 d8 e8 f8 g8 | e4 d4 c,2 }
-      \new Staff { \clef "bass" <c, e g>1 | <c e g>2 <c e g>2 }
+      \new Staff { \clef "bass" <c, e g>1 | <c e g>1 }
   >>
 }
 \midi {}
