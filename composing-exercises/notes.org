@@ -22,7 +22,7 @@ Taken from http://www.artofcomposing.com/
 *** Retrograde-Inversion: do both
 ** Changing Harmony
 *** Transposition
-*** 
+*** Picking common chord tones
 * Larger forms
 ** Smaller Forms
 *** Period
@@ -31,9 +31,16 @@ Taken from http://www.artofcomposing.com/
 ** Larger levels
 *** How are smaller forms developed?
 ** A Period
+*** Consists of 2 x 4 bar 
 *** Antecedent: weak cadence
 **** Ends on V chord
 **** Normally preceded by ii chord or I^6_4 chord inversion
-*** Consequent: strong cadence
+**** First two bars: basic idea
+**** Second two bars: constrasting idea (just a different basic idea)
+*** Consequent: strong cadence (authentic cadence)
 **** Ends on I chord
-**** Proceeded by V7 chord
+**** Proceeded by V7 chord (sometimes V)
+**** First two bars: basic idea
+**** Second two bars: new contrasting idea
+**** Melody should end on 2-1 or 7-8 (that is b-c or d-c)
+**** Liquidation if you have a busy melody
