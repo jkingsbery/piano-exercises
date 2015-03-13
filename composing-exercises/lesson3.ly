@@ -47,11 +47,11 @@
       \new Staff { \clef "treble" \time 4/4 \tempo 4 = 100
            c4 d4 e2 | g8 f8 e8 d8 c2 | f,4. g8 a4 b4 | r8 g8 a8 b8 c4. r8 | \break
            c4 d4 e2 | g8 f8 e8 d8 c2 | f,2 g4 a4 | g4 a4 b4 c4 \break
-           c8 d8 e8 f8 g4. c,8 | g8 e8 g8 c8 e8 g8 c,4 | \break
+           c8 d8 e8 f8 g4. c,8 | g8 e8 g8 c8 e8 g8 c,4 |
            d4. e8 d4 d4 | b4 f'4 d4 b4 | \break
            c8 d8 e8 f8 g4. c,8 | g8 e8 g8 c8 e8 g8 c,8 r8 | 
            c4 c4 g4 g4 | e4 e4 c2 \break
-           c4 d4 e2 | g8 f8 e8 d8 c2 | f2 g2 | a4 b4 c2
+           c4 d4 e2 | g8 f8 e8 d8 c2 | f2 g2 | a4 b4 c2 \break
 
        }
       \new Staff { \clef "bass"
