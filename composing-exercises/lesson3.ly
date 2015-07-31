@@ -81,8 +81,6 @@
            c8 e4. c8 g4. | c8 c8 d4 c2 | \break
            c4. d8 c4 c4 | c4 g4 e4 c4 | \break
            c2 d8 e4. | c8 e8 f8 g8  d8 c4. | \break
-           c8 d8 e8 f8 g4. c,8 | g8 e8 g8 c8 e8 g8 c,4
-
        }
       \new Staff { \clef "bass"
            <c, e g>1 | <c e g>1 | <c e g>1 | <c e g>1 | <c e g>1 | <c e g>1 |
