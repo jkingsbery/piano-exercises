@@ -1,0 +1,18 @@
+Overall structure: Binary Form in G major (https://www.teoria.com/en/tutorials/forms/binary/02-piece.php)
+
+Outline:
+* A
+** 1: 4 Bars of "G-B-D-G"
+** 2: 4 Bars of different idea, ending in leading tone
+** 1: return to first 4 bars
+** 3: 4 Bars, last measure is liquidation
+* B
+** 1: First 8 bars present an idea, contain reverses/inversions of that idea
+** 2: 4 bars, 3 of which have similar shape (melody is translated, harmony as needed for chord progression)
+** 3: 2 bars
+** 4: 2 bars
+** 5: Return to basic idea from A1
+** 6: Conclude with A3 (last 2 bars liquidated)
+
+Chord Progressions:
+
