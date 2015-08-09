@@ -13,9 +13,9 @@
            % Begin part B
            | \key g \major
            g'4 a8 b8 c8 d8 e8 g8 | d8 e8 fis8 g8 g,4 g4 |
-           g4 g4 g'8 fis8 e8 d8  | g8 e8 d8 c8 b8 a8 g4 |
+           g4 g4 g'8 fis8 e8 d8  | g8 e8 d8 c8 b8 a8 g4 | \break
            g8 a8 b8 d8 c8 d8 e8 fis8 | g8 g,8 a4 c2  |
-           g4 b4 d4 fis4 | g8 g,8 a4 c2  |
+           g4 b4 d4 fis4 | g8 g,8 a4 c2  | \break
            % Return to basic idea
            | \key c \major
            c,8 e8 c8 e8 e8 e4. | e8 d4 c4 c4. | <c e g>1 | <c e g>1 | \break
@@ -30,13 +30,13 @@
            <c e g> | <c e g> | <c e g> | <c e g> |
            <c e g> | <b g' f> | <c e g> | <b g' f>2 <c e g>2 |
            % Part B
-           <g b d>1 | <g b d> | <g b d> | <g b d>
+           <g b d>2 <c e g>2 | <g b d>2 <g b d>2 | <g b d>2 <g b d>2 | <g b d>1 |
            <g b d>1 | <g b d>2 <c e g>2 |
            <g b d>1 | <g b d>2 <c e g>2 |
            % Return to A
            <c e g>1 | <c e g>1 | c8 e8 c8 e8 e8 e4. | e8 d4 c4 c4. |
            <c e g>1 | <c e g>1 | c8 c8 d8 e8 e8 e4. | e8 c4 e4 c4.  |
-           <c e g>1 | <b g' f> | <c e g> | <b g' f>2 <c e g>2 |
+           <c e g>1 | <b g' f>1 | <c e g>1 | <b g' f>2 <c e g>2 |
       }
   >>
 }
